@@ -1,2 +1,2 @@
-# projet-BTSSIO-versionado
+# Projet BTS SIO VERSIONADO
 Projet BTS SIO versionado
